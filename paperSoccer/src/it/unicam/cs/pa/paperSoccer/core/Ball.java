@@ -1,5 +1,7 @@
 package it.unicam.cs.pa.paperSoccer.core;
 
+//modi fica 2
+
 public class Ball {
 	private int x;
 	private int y;
